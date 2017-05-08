@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<BFSM>
+	<GoalSet id="0">
+goalList
+	</GoalSet>
+
+stateList
+	<State name="Stop" final="1" >
+		<GoalSelector type="identity" />
+		<VelComponent type="goal" />
+	</State>
+transitionList
+</BFSM>

@@ -1,0 +1,10 @@
+<AgentGroup>
+profileSelector
+stateSelector
+	<Generator type="rect_grid" 
+anchor
+offset
+agents
+				displace_dist="u" displace_min="0.0" displace_max="0.25"
+				/>
+</AgentGroup>
